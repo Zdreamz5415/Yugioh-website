@@ -1,0 +1,52 @@
+* {
+    background-color: blue;
+    box-sizing: border-box;
+    padding:20px 15px 20px 15px 
+}
+
+/* body {
+    background-image: url(yugiohlogo1.png);
+} */
+
+h1 {
+    color:black;
+    font-size:medium;
+} 
+
+/* This is how to change the size and the color of the heading */
+
+p{
+    color:white
+}
+/* This is how to change a paragraph to a diffrent color */
+
+li{
+    color:white
+}
+    
+q{
+    color:white
+}
+
+blockquote{
+    color:white
+}
+
+/* Use a dot for classes etc welcome.  */
+
+/* <p class="center large<hello world"</p> */
+
+/* #Fusion {
+    /* color:rgb(83, 2, 83) 
+} */
+/* singles out a key word and changes the size and color */
+
+#yugiohlogo2.png {
+    width: 10%;
+    height: 10%;
+}
+
+/* font-family;fantesy
+font-size:50px */
+/* font-style;italic
+font-weight;bold */
